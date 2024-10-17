@@ -6,7 +6,7 @@ A lightweight, multi-agent orchestration framework built on top of [Amazon Bedro
 
 > 💡 Inspired by the OpenAI Cookbook article [*Orchestrating Agents: Routines and Handoffs*](https://cookbook.openai.com/examples/orchestrating_agents).
 
-> ⚠️ This project is a work in progress: if you'd like to contribute, please open a new issue or submit a PR.
+> ⚠️ **This project is a work in progress!** If you'd like to contribute, please [open a new issue](https://github.com/JGalego/swarm_bedrock/issues/new) or [submit a PR](https://github.com/JGalego/swarm_bedrock/pulls). If you're looking for a *production-ready* version, check out AWS Labs' [Multi-Agent Orchestrator](https://awslabs.github.io/multi-agent-orchestrator/).
 
 ![Triage Agent](assets/triage_agent.gif)
 
