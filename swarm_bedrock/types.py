@@ -11,7 +11,7 @@ class Agent(BaseModel):
     """
     name: str = "Agent"
     instructions: str = "You are a helpful agent"
-    model: str = "anthropic.claude-3-sonnet-20240229-v1:0"
+    model: str = "anthropic.claude-3-5-sonnet-20241022-v2:0"
     inference_config: Dict = {}
     tools: list = []  # TODO: refactor to handle 'no tools' case
 
